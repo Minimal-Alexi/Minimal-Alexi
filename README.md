@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">📚Learning: Currently studying backend development and AWS courses focused on Cloud Computing and Services.<br>🎯Goals: Building reliable services with global impact</p>
+<p align="left">📚Learning: Currently studying backend development and AWS courses focused on Cloud Computing and Services. Also started learning typescript!<br>🎯Goals: Building reliable services with global impact</p>
 
 ###
 
@@ -34,11 +34,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="72" alt="spring logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="72" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="72" alt="javascript logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="72" alt="kotlin logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="72" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="72" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="72" alt="raspberrypi logo"  />
   <img width="12" />
